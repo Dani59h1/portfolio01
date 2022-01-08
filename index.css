@@ -489,3 +489,10 @@ p {
   color: whitesmoke;
   font-family: "Playfair Display", serif;
 }
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 400;
+}
