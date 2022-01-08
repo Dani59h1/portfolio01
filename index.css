@@ -6,7 +6,7 @@
 
 body {
   background-color: #630c0c;
-  background-image: url("billeder/sprash.jpg");
+  background-image: url("billeder/sprash.webp");
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
 }
